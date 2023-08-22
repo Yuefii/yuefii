@@ -11,18 +11,18 @@
 
 ## Frontend:
 
-HTML ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
-CSS ![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
-TAILWIND CSS ![TAILWIND CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
-REACT JS ![REACT JS](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
-NEXT JS ![NEXT JS](https://cdn.worldvectorlogo.com/logos/nextjs-2.svg)
+HTML <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40">
+CSS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40">
+TAILWIND CSS <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TAILWIND CSS" width="40" height="40">
+REACT JS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="REACT JS" width="40" height="40">
+NEXT JS <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="NEXT JS" width="40" height="40">
 
 ## Backend:
 
-NODE JS ![NODE JS](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)
-EXPRESS ![EXPRESS](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)
-NGINX ![NGINX](https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg)
-POSTMAN ![POSTMAN](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
+NODE JS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NODE JS" width="40" height="40">
+EXPRESS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="EXPRESS" width="40" height="40">
+NGINX <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" width="40" height="40">
+POSTMAN <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="POSTMAN" width="40" height="40">
 
 <h3 align="left">Database:</h3>
 <p align="left">
