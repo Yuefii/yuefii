@@ -11,8 +11,8 @@
 
 | Frontend     | Backend | Database   | Other  |
 | ------------ | ------- | ---------- | ------ |
-| HTML         | Node.js | Mysql      | GIT    |
-| CSS          | Express | Postgresql | DOCKER |
+| HTML         | NODE JS | MYSQL      | GIT    |
+| CSS          | EXPRESS | POSTGRESQL | DOCKER |
 | TAILWIND CSS | NGINX   |            |        |
 | REACT JS     | POSTMAN |            |        |
 | NEXT JS      |         |            |        |
