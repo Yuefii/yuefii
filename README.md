@@ -9,54 +9,20 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 </p>
 
-<div style="display: flex; align-items: center;">
-  <div style="margin-right: 20px;">
-    <h3>Frontend:</h3>
-    <p>
-      <!-- HTML -->
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-      </a>
-      <!-- CSS -->
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-      </a>
-      <!-- TAILWIND CSS -->
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-      </a>
-      <!-- REACT JS -->
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-      </a>
-      <!-- NEXT JS -->
-      <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-      </a>
-    </p>
-  </div>
-  <div>
-    <h3>Backend:</h3>
-    <p>
-      <!-- NODE JS -->
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-      </a>
-      <!-- EXPRESS -->
-      <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-      </a>
-      <!-- NGINX -->
-      <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-      </a>
-      <!-- POSTMAN -->
-      <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-      </a>
-    </p>
-  </div>
-</div>
+## Frontend:
+
+HTML ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
+CSS ![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
+TAILWIND CSS ![TAILWIND CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
+REACT JS ![REACT JS](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
+NEXT JS ![NEXT JS](https://cdn.worldvectorlogo.com/logos/nextjs-2.svg)
+
+## Backend:
+
+NODE JS ![NODE JS](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)
+EXPRESS ![EXPRESS](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)
+NGINX ![NGINX](https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg)
+POSTMAN ![POSTMAN](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
 
 <h3 align="left">Database:</h3>
 <p align="left">
