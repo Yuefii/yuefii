@@ -9,6 +9,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 </p>
 
+<div style="display: flex; justify-content: center; align-items: center;">
 <h3 align="left">Frontend:</h3>
 <p align="left">
 <!-- HTML -->
@@ -22,27 +23,18 @@
 <!-- NEXT JS -->
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
 </p>
-
 <h3 align="left">Backend:</h3>
 <p align="left">
 <!-- NODE JS -->
-
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-
 <!-- EXPRESS -->
-
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-
 <!-- NGINX -->
-
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
-
 <!-- POSTMAN -->
-
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-
 </p>
-
+</div>
 <h3 align="left">Database:</h3>
 <p align="left">
 
@@ -77,4 +69,4 @@
 
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuefii&show_icons=true&locale=en&layout=compact" alt="yuefii" /></>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuefii&show_icons=true&locale=en&layout=compact" alt="yuefii" />
