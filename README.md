@@ -10,13 +10,13 @@
 </p>
  
  _______________________________________________________________________
-|   Frontend          | Backend          | Database       | Other         |
-|  -------------------|------------------|----------------|---------------|
-|   HTML              | Node.js          | Mysql          |GIT            |
-|   CSS               | Express          | Postgresql     |DOCKER         |
-|   TAILWIND CSS      | NGINX            |                |               |
-|   REACT JS          | POSTMAN          |                |               |
-|   NEXT JS           |                  |                |               |
+  Frontend           |Backend           |Database        |Other         
+  -------------------|------------------|----------------|--------------
+   HTML              | Node.js          | Mysql          |GIT            
+   CSS               | Express          | Postgresql     |DOCKER         
+   TAILWIND CSS      | NGINX            |                |               
+   REACT JS          | POSTMAN          |                |               
+   NEXT JS           |                  |                |               
  
  -----------------------------------------------------------------------
 
