@@ -12,7 +12,7 @@
 | ------------ | ------- | ---------- | ------ |
 | HTML         | NODE JS | MYSQL      | GIT    |
 | CSS          | EXPRESS | POSTGRESQL | DOCKER |
-| TAILWIND CSS | NGINX   |            |        |
+| TAILWIND CSS | NGINX   |            | LINUX  |
 | REACT JS     | POSTMAN |            |        |
 | NEXT JS      |         |            |        |
 
