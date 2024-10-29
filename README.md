@@ -1,5 +1,5 @@
+# 📊 Stats & Streak
 <p align="center">
-  <h1>📊 Stats & Streak<h1>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuefii" alt="GitHub Streak" />
 </p>
 
