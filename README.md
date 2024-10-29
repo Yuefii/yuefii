@@ -12,8 +12,7 @@
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   <a/>
 </p>
-# 📊 Stats & Streak
-<p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuefii&theme=github-dark-blue" alt="GitHub Streak" />
 </p>
 
