@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" src="https://user-images.githubusercontent.com/74038190/213910471-54fd7ea1-77ff-4b53-bf84-a75126c9b2bd.png" alt="Banner" />
+  <img width="200" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" alt="Banner" />
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/muhamad-mupid-ahmadiawan-3b2a95292/">
