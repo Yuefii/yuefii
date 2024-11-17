@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" alt="Banner" />
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241117%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241117T145013Z&X-Amz-Expires=300&X-Amz-Signature=28a12e9e880963c7a82d3d401ac95d2fece24fa7667aadfc00e60ddc6b0984e8&X-Amz-SignedHeaders=host" alt="Banner" />
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/muhamad-mupid-ahmadiawan-3b2a95292/">
