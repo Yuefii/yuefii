@@ -25,5 +25,5 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_TIMEZONE: "False"
           SHOW_UPDATED_DATE: "False"
-          SHOW_LINES_OF_CODE: "true"
+          SHOW_TOTAL_CODE_TIME: "False"
           SHOW_LOC_CHART: "False"
