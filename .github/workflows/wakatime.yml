@@ -15,8 +15,13 @@ jobs:
           SECTION_NAME: "devstats"
           TIME_RANGE: all_time
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          COMMIT_BY_ME: true
-          SHOW_SHORT_INFO: true
-          SHOW_DAYS_OF_WEEK: true
-          SHOW_TOTAL_CODE_TIME: true
-          SHOW_TIME: true
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_COMMIT: "True"
+          COMMIT_BY_ME: "False"
+          COMMIT_MESSAGE: "automated updates — dev. metrics"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "False"
+          SHOW_EDITORS: "True"
+          SHOW_SHORT_INFO: "True"
