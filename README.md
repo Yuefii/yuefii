@@ -1,10 +1,5 @@
-<!--START_SECTION:devstats-->
-
-```txt
-TypeScript   12 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
-```
-
-<!--END_SECTION:devstats-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhamad-mupid-ahmadiawan-3b2a95292/">
