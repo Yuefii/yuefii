@@ -1,4 +1,9 @@
 <!--START_SECTION:devstats-->
+
+```txt
+TypeScript                   █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:devstats-->
 
 <p align="center">
