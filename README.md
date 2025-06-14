@@ -44,3 +44,4 @@ Linux                    17 hrs 11 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 Check out some of the things Im building :
 
 - [Personal Portfolio](https://www.yuefii.site)
+- [Nusantara Kita](https://nusakita.yuefii.site)
