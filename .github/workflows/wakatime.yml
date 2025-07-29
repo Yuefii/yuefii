@@ -14,6 +14,8 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TIME: true
           SHOW_TOTAL: true
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
+          IGNORED_LANGUAGES: YAML JSON TOML HTML
           TIME_RANGE: all_time
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
   # update-readme:
