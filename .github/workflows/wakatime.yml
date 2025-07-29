@@ -2,7 +2,7 @@ name: Wakatime
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: "0 17 * * *"
 jobs:
   update:
     name: Update this repo's README
@@ -12,27 +12,28 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_EDITORS: true
           TIME_RANGE: all_time
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          USERNAME: yuefii
-          SHOW_PROJECTS: "False"
-          COMMIT_BY_ME: "False"
-          COMMIT_MESSAGE: "chore: automated updates — dev. metrics"
-          SHOW_SHORT_INFO: "False"
-          SHOW_DAYS_OF_WEEK: "False"
-          DEBUG_LOGGING: "False"
-          SYMBOL_VERSION: 2
-          SHOW_LANGUAGE_PER_REPO: "False"
-          SHOW_PROFILE_VIEWS: "False"
-          SHOW_TIMEZONE: "False"
-          SHOW_UPDATED_DATE: "False"
-          SHOW_TOTAL_CODE_TIME: "True"
-          SHOW_LOC_CHART: "False"
+  # update-readme:
+  #   name: Update Readme with Metrics
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - uses: anmol098/waka-readme-stats@master
+  #       with:
+  #         WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+  #         GH_TOKEN: ${{ secrets.GH_TOKEN }}
+  #         USERNAME: yuefii
+  #         SHOW_PROJECTS: "False"
+  #         COMMIT_BY_ME: "False"
+  #         COMMIT_MESSAGE: "chore: automated updates — dev. metrics"
+  #         SHOW_SHORT_INFO: "False"
+  #         SHOW_DAYS_OF_WEEK: "False"
+  #         DEBUG_LOGGING: "False"
+  #         SYMBOL_VERSION: 2
+  #         SHOW_LANGUAGE_PER_REPO: "False"
+  #         SHOW_PROFILE_VIEWS: "False"
+  #         SHOW_TIMEZONE: "False"
+  #         SHOW_UPDATED_DATE: "False"
+  #         SHOW_TOTAL_CODE_TIME: "True"
+  #         SHOW_LOC_CHART: "False"
