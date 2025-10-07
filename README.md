@@ -25,5 +25,5 @@ Svelte           18 hrs 3 mins   ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 Check out some of the things Im building :
 
-- [Personal Portfolio](https://www.yuefii.site)
-- [Nusantara Kita](https://nusakita.yuefii.site)
+- [Freelyce](https://freelyce.vercel.app)
+- [Nusantara Kita](https://nusakita.vercel.app)
