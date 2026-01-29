@@ -2,7 +2,7 @@ name: Wakatime
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 17 * * *"
+    - cron: "0 17 1 * *"
 jobs:
   update:
     name: Update this repo's README
